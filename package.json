@@ -15,6 +15,7 @@
     "prettier": "^3.8.1"
   },
   "dependencies": {
+    "cookie-parser": "^1.4.7",
     "cors": "^2.8.6",
     "dns": "^0.2.2",
     "dotenv": "^17.2.4",
