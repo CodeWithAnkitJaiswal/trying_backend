@@ -38,4 +38,4 @@ const uploadResult = await cloudinary.uploader
 
 export {uploadOnCloudinary}
 
-console.log(uploadResult);
+// console.log(uploadResult);
